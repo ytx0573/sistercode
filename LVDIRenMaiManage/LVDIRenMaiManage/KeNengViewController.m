@@ -26,7 +26,7 @@
     [self.navc addSubview:titleImage];
     
     
-    _tableView = [[UITableView alloc] initWithFrame:CGRectMake(0, 65, CGGET_WIDTH, CGGET_HEIGHT)];
+    _tableView = [[UITableView alloc] initWithFrame:CGRectMake(0, 64, CGGET_WIDTH, CGGET_HEIGHT)];
 //    _tableView.separatorColor = [UIColor clearColor];
     _tableView.delegate = self;
     _tableView.dataSource = self;

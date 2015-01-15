@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9286F193-A051-487D-8B8F-0FF1C76925A4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LVDIRenMaiManage</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1B4BD53344512929CDB16C6868A23EF76782CEF0</key>
+		<string>github.com:ytx0573/sistercode.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LVDIRenMaiManage/LVDIRenMaiManage.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1B4BD53344512929CDB16C6868A23EF76782CEF0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:ytx0573/sistercode.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1B4BD53344512929CDB16C6868A23EF76782CEF0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1B4BD53344512929CDB16C6868A23EF76782CEF0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sistercode</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -33,7 +33,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    _navc = [[UIImageView alloc]initWithFrame:CGRectMake(0, 0, CGGET_WIDTH, 54)];
+    _navc = [[UIImageView alloc]initWithFrame:CGRectMake(0, 0, CGGET_WIDTH, 64)];
     _navc.image = [UIImage imageNamed:@"顶.png"];
 //    [_navc setBackgroundColor: [UIColor colorWithPatternImage:[UIImage imageNamed:@"顶.png"]]];
     [self.view addSubview:_navc];
